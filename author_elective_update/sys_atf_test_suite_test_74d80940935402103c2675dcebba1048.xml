@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite_test">
+    <sys_atf_test_suite_test action="DELETE">
+        <abort_on_failure>false</abort_on_failure>
+        <order/>
+        <sys_class_name>sys_atf_test_suite_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-06 20:01:45</sys_created_on>
+        <sys_id>74d80940935402103c2675dcebba1048</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0f4d5088939002103c2675dcebba1018</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_test_suite_test_74d80940935402103c2675dcebba1048</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-06 20:01:45</sys_updated_on>
+        <test display_value="NeedIt Set Requested for and Email">0f4d5088939002103c2675dcebba1018</test>
+        <test_suite display_value="NeedIt App">6a879444939002103c2675dcebba109d</test_suite>
+    </sys_atf_test_suite_test>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>457255da1be231141024eb9b2d4bcb0a</instance_id>
+        <instance_name>dev216376</instance_name>
+        <name>sys_atf_test_suite_test_74d80940935402103c2675dcebba1048</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite_test"><sys_atf_test_suite_test action="INSERT_OR_UPDATE"><abort_on_failure>false</abort_on_failure><order/><sys_class_name>sys_atf_test_suite_test</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-06 20:01:45</sys_created_on><sys_id>74d80940935402103c2675dcebba1048</sys_id><sys_mod_count>0</sys_mod_count><sys_name>0f4d5088939002103c2675dcebba1018</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_atf_test_suite_test_74d80940935402103c2675dcebba1048</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-06 20:01:45</sys_updated_on><test display_value="NeedIt Set Requested for and Email">0f4d5088939002103c2675dcebba1018</test><test_suite display_value="NeedIt App">6a879444939002103c2675dcebba109d</test_suite></sys_atf_test_suite_test></record_update>]]></payload>
+        <payload_hash>-909148285</payload_hash>
+        <record_name>0f4d5088939002103c2675dcebba1018</record_name>
+        <reverted_from/>
+        <source>bcdbdf7e933331103c2675dcebba10ef</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-06 20:01:45</sys_created_on>
+        <sys_id>2bd88944935402103c2675dcebba1075</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d800321150000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-06 20:01:45</sys_updated_on>
+        <type>Test Suite Test</type>
+        <update_guid>2bd8c5c07f540210004aa51bc7518254</update_guid>
+        <update_guid_history>2bd8c5c07f540210004aa51bc7518254:-909148285</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-06 20:02:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_test_suite_test">sys_atf_test_suite_test</sys_db_object>
+        <sys_id>12cad95a06964c9c93baae15b9816f10</sys_id>
+        <sys_metadata>74d80940935402103c2675dcebba1048</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0f4d5088939002103c2675dcebba1018</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_atf_test_suite_test_74d80940935402103c2675dcebba1048</sys_update_name>
+        <sys_update_version display_value="sys_atf_test_suite_test_74d80940935402103c2675dcebba1048">2bd88944935402103c2675dcebba1075</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-06 20:02:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
